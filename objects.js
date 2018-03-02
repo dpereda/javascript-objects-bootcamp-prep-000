@@ -9,4 +9,6 @@ function updatePlaylist(playlists,artistName, songTitle){
   
   //playlist['songTitles']=songTitle
   return playlist
+
+  
 }
