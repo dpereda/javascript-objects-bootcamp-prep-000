@@ -1,6 +1,4 @@
-var playlist ={
-  artistNames:'',
-  };
+var playlist = new Object{};
 
 function updatePlaylist(playlists,artistName, songTitle){
   delete playlist.artistNames
