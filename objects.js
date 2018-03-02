@@ -1,6 +1,5 @@
 var playlist ={
-  artistNames:"Bob",
-  songTitles:"Country Road"
+  artistNames:"songtitle"
 };
 
 function updatePlaylist(playlists,artistName, songTitle){
